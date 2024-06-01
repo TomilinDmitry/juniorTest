@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import style from "./index.module.scss";
-import { useLocation } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import user from "../../images/icons/mi_user.svg";
 import calendar from "../../images/icons/mi_calendar.svg";
 import call from "../../images/icons/mi_call.svg";
@@ -30,26 +30,26 @@ export const MainContainer = () => {
     <div className={style.wrapper}>
       <div className={style.buttons}>
         <button>
-          <a
-            href='/'
+          <Link
+            to='/'
             className={`${
               location.pathname === "/"
                 ? style.active
                 : style.notActive
             }`}>
             О компании{" "}
-          </a>{" "}
+          </Link>{" "}
         </button>
         <button>
-          <a
-            href='#/profile'
+          <Link
+            to='/profile'
             className={`${
               location.pathname === "/profile"
                 ? style.active
                 : style.notActive
             }`}>
             О сотруднике{" "}
-          </a>{" "}
+          </Link>{" "}
         </button>
       </div>
       <div className={style.container}>
