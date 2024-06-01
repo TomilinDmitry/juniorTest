@@ -1,6 +1,6 @@
 # Junior Test Project
 
-<a href=https://tomilindmitry.github.io/neoflex/#/ style="color: white;">Junior Test Project</a>
+<a href=https://tomilindmitry.github.io/juniorTest/#/ style="color: white;">Junior Test Project</a>
 
 Добро пожаловать в Test Project! Этот проект разработан с использованием следующего стека технологий:
 
