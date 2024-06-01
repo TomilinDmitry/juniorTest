@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ba7009f2.css",
+    "main.js": "./static/js/main.3adb3c39.js",
+    "static/media/photo1.png": "./static/media/photo1.93aedb9012efff54b3ff.png",
+    "static/media/photo1Mobile.png": "./static/media/photo1Mobile.1a45f52d4a60b91e672d.png",
+    "static/media/photo2Mobile.png": "./static/media/photo2Mobile.25658c5b77140bd51238.png",
+    "static/media/photo2.png": "./static/media/photo2.071e804d5eb41376a478.png",
+    "static/media/mi_link-alt.svg": "./static/media/mi_link-alt.c97235c04ff29bb34c72bb32f3a7385e.svg",
+    "static/media/Viber.svg": "./static/media/Viber.69968ddb2d5dc6490241b9cbd8fbe31b.svg",
+    "static/media/Whatsapp.svg": "./static/media/Whatsapp.de3d4379b842d9b44b4b18539cb6168a.svg",
+    "static/media/Ok.svg": "./static/media/Ok.9dd131ab6c9c463d2d6c83450d3d1a92.svg",
+    "static/media/mi_call.svg": "./static/media/mi_call.8a72bc41de764934a3545c91d16ad56f.svg",
+    "static/media/mi_user.svg": "./static/media/mi_user.6e98f100f0e0445c30e47f85cc0c0c24.svg",
+    "static/media/Instagram.svg": "./static/media/Instagram.833a70348022a02e47297d1c97c1e5d0.svg",
+    "static/media/LinkedIn.svg": "./static/media/LinkedIn.35ca57e654a6e5357de0869060db6504.svg",
+    "static/media/Tiktok.svg": "./static/media/Tiktok.c1394f4a59df53725ffab2618e83a416.svg",
+    "static/media/mi_calendar.svg": "./static/media/mi_calendar.70ceda18682c6d5b66669e4c429b95d6.svg",
+    "static/media/Facebook.svg": "./static/media/Facebook.1d0fb072e5ceea51a1286ffd3e508f60.svg",
+    "static/media/Telegram.svg": "./static/media/Telegram.b00dfd1b60c9ae5cbb1231eff5d065e0.svg",
+    "static/media/YouTube.svg": "./static/media/YouTube.939e7c6e51f73794c35a7b728e2ff46d.svg",
+    "static/media/VK.svg": "./static/media/VK.21dc5fe5644b9b8aa4f3e46429b73e4c.svg",
+    "static/media/mi_mobile.svg": "./static/media/mi_mobile.27e0861df880f3fdbf7f08c3a7eabdb3.svg",
+    "static/media/callMobile.svg": "./static/media/callMobile.2eeb7e4b94aa921bf47c225308b34e4c.svg",
+    "static/media/mi_email.svg": "./static/media/mi_email.631324145b5c6760568ef232ac2f3499.svg",
+    "static/media/mi_location.svg": "./static/media/mi_location.7682476785a29ec7ec15f9ada94a39f8.svg",
+    "index.html": "./index.html",
+    "main.ba7009f2.css.map": "./static/css/main.ba7009f2.css.map",
+    "main.3adb3c39.js.map": "./static/js/main.3adb3c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba7009f2.css",
+    "static/js/main.3adb3c39.js"
+  ]
+}
